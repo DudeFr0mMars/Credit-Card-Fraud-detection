@@ -1,5 +1,5 @@
 
-![ScreenShot](Credit Card Fraud detection/img/ccf.jpg)
+![ScreenShot](https://github.com/DudeFr0mMars/Data_Analytics/blob/Master/Credit%20Card%20Fraud%20detection/img/ccf.jpg)
 
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
