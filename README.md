@@ -2,7 +2,6 @@
 ![ScreenShot](Credit Card Fraud detection/img/ccf.jpg)
 
 
-
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
